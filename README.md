@@ -6,13 +6,13 @@ Topic covered in assignments are as follows. Further details in respective folde
 
 eg: Visual Studio + Jupyter Notebook extenion + Python extension  
 
-'''
+```
 pip install matplotlib
-'''
+```
 
-'''
+```
 pip install opencv-python
-'''
+```
 
 ## Assignment 1
 
