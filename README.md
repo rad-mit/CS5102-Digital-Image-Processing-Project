@@ -13,6 +13,9 @@ pip install matplotlib
 ```
 pip install opencv-python
 ```
+```
+pip install scipy  
+```
 
 ## Assignment 1
 
