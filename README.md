@@ -33,6 +33,10 @@ Scaling and Downsampling
 
 Adding Gaussian noise; image averaging; bilinear and nearest neighbor interpolation
 
+## Assignmnet 4
+
+Image rotation with bilinear interpolation
+
 
 
 
