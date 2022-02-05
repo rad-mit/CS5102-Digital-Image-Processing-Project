@@ -2,6 +2,10 @@
 
 Topic covered in assignments are as follows. Further details in respective folder
 
+Discussion link
+https://meet.google.com/qav-ojdr-gsy
+
+
 ## Setup
 
 eg: Visual Studio + Jupyter Notebook extenion + Python extension  
@@ -28,6 +32,10 @@ Scaling and Downsampling
 ## Assignmnet 3
 
 Adding Gaussian noise; image averaging; bilinear and nearest neighbor interpolation
+
+## Assignmnet 4
+
+Image rotation with bilinear interpolation
 
 
 
