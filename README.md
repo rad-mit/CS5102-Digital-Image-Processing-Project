@@ -33,9 +33,18 @@ Scaling and Downsampling
 
 Adding Gaussian noise; image averaging; bilinear and nearest neighbor interpolation
 
-## Assignmnet 4
+## Assignment 4
 
 Image rotation with bilinear interpolation
+
+## Assignment 5
+
+Histrogram equalization and Histrogram matching
+
+## Assignment 6
+
+Average filtering (By correlating) and median fliter
+
 
 
 
