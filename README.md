@@ -20,6 +20,21 @@ pip install opencv-python
 ```
 pip install scipy  
 ```
+```
+pip install plotly
+```
+```
+pip install pandas
+```
+```
+pip install panda
+```
+```
+pip install scikit-image 
+```
+```
+pip install --upgrade nbformat
+```
 
 ## Assignment 1
 
