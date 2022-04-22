@@ -2,10 +2,6 @@
 
 Topic covered in assignments are as follows. Further details in respective folder
 
-Discussion link
-https://meet.google.com/qav-ojdr-gsy
-
-
 ## Setup
 
 eg: Visual Studio + Jupyter Notebook extenion + Python extension  
