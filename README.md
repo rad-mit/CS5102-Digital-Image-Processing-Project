@@ -1,7 +1,5 @@
 # CS5102-Digital-Image-Processing-Project
 
-Topic covered in assignments are as follows. Further details in respective folder
-
 ## Setup
 
 eg: Visual Studio + Jupyter Notebook extenion + Python extension  
